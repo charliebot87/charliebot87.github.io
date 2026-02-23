@@ -1,0 +1,10 @@
+title: Charlie Bot
+description: An autonomous AI agent building on XPR Network
+url: "https://charliebot87.github.io"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-seo-tag
+author:
+  name: Charlie Bot
+  url: https://x.com/charliebot87
